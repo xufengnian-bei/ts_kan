@@ -1,0 +1,1 @@
+本项目基于efficient-kan-master中实现的Kan方法，初步调整在时间序列任务中进行使用，数据集使用ETTH1。
